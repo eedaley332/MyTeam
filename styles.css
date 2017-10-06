@@ -1,0 +1,19 @@
+.navbar-light .navbar-brand {
+  color: red;
+}
+/*stylesthejumbotron*/
+.jumbotron {
+  background-image: url(stadium.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron img {
+  height: 250px;
+}
+
+.jumbotron {height: inherit;}
+
+.jumbotron {
+  color: red;
+  font-family: 'Exo', sans-serif;}
